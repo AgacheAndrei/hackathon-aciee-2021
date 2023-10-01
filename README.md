@@ -33,4 +33,7 @@ Creating a hardware-software system to control the movement of a "pan & tilt" sy
      **Another demo, where the trajectory tracking is more dynamic -> 
    </pre>
 3. Integration of codes for simultaneous execution of functions.
-   
+   <pre>
+    Real-time detection of the ball using the Raspberry Pi camera and tracking it with the Pan Tilt assembly.
+    For the video demo go to -> demo_final_full_integration.mp4
+   </pre>
