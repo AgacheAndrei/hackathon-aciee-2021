@@ -29,6 +29,8 @@ Creating a hardware-software system to control the movement of a "pan & tilt" sy
      Image processing for efficient object detection
      Object detection based on color and shape
      Displaying the object's trajectory and its position graphically
+     **For the video demo go to -> demo_software.gif
+     **Another demo, where the trajectory tracking is more dynamic -> 
    </pre>
 3. Integration of codes for simultaneous execution of functions.
    
