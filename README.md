@@ -12,6 +12,7 @@ Creating a hardware-software system to control the movement of a "pan & tilt" sy
 ![Picture4](https://github.com/AgacheAndrei/hackathon-aciee-2021-1st-place/assets/36128809/195c0ac2-7db0-4352-bcb7-a51a441e1617)
 
 ### Sofware development
+**All code is in Python🐍**
 1. Developing the code for controlling the servo motors' movement. 
    <pre>
      Library: RPI.GPIO 
