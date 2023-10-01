@@ -15,13 +15,19 @@ Creating a hardware-software system to control the movement of a "pan & tilt" sy
 
 ### Sofware development
 **All code is in Python🐍**
+### Programing languages and technology used
+
+<img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
+<img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />  
+
+<br>
+<br>
 1. Developing the code for controlling the servo motors' movement. 
    <pre>
      Library: RPI.GPIO 
      Setting the initial position: 90°x-90°y 
      Moving the servos based on the object's position 
      Tracking the object within given parameters (500x500)
-
    </pre>
      ![image5](https://github.com/AgacheAndrei/hackathon-aciee-2021-1st-place/assets/36128809/e180c679-c8bc-4c19-8cf0-1e223e1e097b)
 
@@ -29,8 +35,8 @@ Creating a hardware-software system to control the movement of a "pan & tilt" sy
    <pre>
      Libraries: OpenCV, NumPy, Collections, Imutils, argparse, time
      Detection of object color range
-     Image processing for efficient object detection
-     Object detection based on color and shape
+     Image processing for efficient object detection using advanced image manipulation techniques
+     Object detection based on color and shape 
      Displaying the object's trajectory and its position graphically
      **For the video demo go to -> demo_software.gif
      **For the video demo where the system of tracking the trajectory can be seen better go to -> demo_software_2.mp4
