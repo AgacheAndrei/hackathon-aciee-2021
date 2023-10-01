@@ -1,5 +1,7 @@
 ## Problem
 Creating a hardware-software system to control the movement of a "pan & tilt" system with an attached video camera🎥 in order to track an object (a ping-pong ball 🏓) within the area of interest.
+<br>
+**! 48 hours to resolve this problem !**
 ## Solution
 ### Hardware development
 1. I have cut the axes for the camera mount.
