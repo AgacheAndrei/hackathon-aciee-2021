@@ -30,7 +30,7 @@ Creating a hardware-software system to control the movement of a "pan & tilt" sy
      Tracking the object within given parameters (500x500)
    </pre>
    
-   ![image5](https://github.com/AgacheAndrei/hackathon-aciee-2021-1st-place/assets/36128809/e180c679-c8bc-4c19-8cf0-1e223e1e097b)
+![image5](https://github.com/AgacheAndrei/hackathon-aciee-2021-1st-place/assets/36128809/e180c679-c8bc-4c19-8cf0-1e223e1e097b)
 
 2. Developing the code for object motion detection.
    <pre>
